@@ -1,0 +1,37 @@
+
+#Body{
+    background-color: #edd263;
+    
+    
+
+}
+
+.grid-container{
+    margin: 100px;
+    display:grid ;
+    grid-template-columns: auto auto auto auto;
+    grid-gap: 20px 20px;
+    justify-content: center;
+
+   
+    
+}
+
+.innerFoodListDiv{ /** ekhanei on click korte hobe*/
+    background-color:white;
+    border-radius: 10px;
+    text-align: center;
+    
+    
+    
+}
+
+.innerFoodListDiv h1{
+    font-size: 20px;
+
+    
+
+}
+#nothingMatched{
+    display: block;
+}
